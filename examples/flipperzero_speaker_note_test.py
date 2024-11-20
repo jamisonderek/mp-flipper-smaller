@@ -15,6 +15,7 @@ def play_frequency(frequency: float):
 
   f0.speaker_stop()
 
+'''
 play_frequency(f0.SPEAKER_NOTE_C5)
 play_frequency(f0.SPEAKER_NOTE_D5)
 play_frequency(f0.SPEAKER_NOTE_E5)
@@ -23,3 +24,4 @@ play_frequency(f0.SPEAKER_NOTE_G5)
 play_frequency(f0.SPEAKER_NOTE_A5)
 play_frequency(f0.SPEAKER_NOTE_B5)
 play_frequency(f0.SPEAKER_NOTE_C6)
+'''
